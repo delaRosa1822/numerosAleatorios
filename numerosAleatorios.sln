@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numerosAleatorios", "numerosAleatorios\numerosAleatorios.csproj", "{35D6FEA6-F824-4662-BA25-7E5393B58871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncionesLambda", "..\EDAT_JD25_P01\FuncionesLambda\FuncionesLambda.csproj", "{2D22DCC3-B999-4849-943F-97C586749E7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{35D6FEA6-F824-4662-BA25-7E5393B58871}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35D6FEA6-F824-4662-BA25-7E5393B58871}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35D6FEA6-F824-4662-BA25-7E5393B58871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D22DCC3-B999-4849-943F-97C586749E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D22DCC3-B999-4849-943F-97C586749E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D22DCC3-B999-4849-943F-97C586749E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D22DCC3-B999-4849-943F-97C586749E7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
